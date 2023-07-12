@@ -1,8 +1,11 @@
-1.이름
+1.이름 
+
+윤지영
 
 
 
-2.이메일
+2.이메일 
+developer.jyyun@gmail.com
 
 
 
